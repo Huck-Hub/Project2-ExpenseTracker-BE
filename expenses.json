@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "673b30010000000000000001",
+        "id": 301,
+        "title": "Student Accommodation Rent (Monthly)",
+        "category": "Housing",
+        "amount": 650.00,
+        "paymentMethod": "Bank Transfer",
+        "date": "2026-11-01",
+        "recurring": true
+    },
+    {
+        "_id": "673b30010000000000000002",
+        "id": 302,
+        "title": "Weekly Groceries & Meal Prep",
+        "category": "Food & Dining",
+        "amount": 58.40,
+        "paymentMethod": "Apple Pay",
+        "date": "2026-11-12",
+        "recurring": false
+    },
+    {
+        "_id": "673b30010000000000000003",
+        "id": 303,
+        "title": "London Underground Oyster Travelcard",
+        "category": "Transport",
+        "amount": 94.50,
+        "paymentMethod": "Card",
+        "date": "2026-11-05",
+        "recurring": true
+    },
+    {
+        "_id": "673b30010000000000000004",
+        "id": 304,
+        "title": "GitHub Copilot & Cloud Hosting Tier",
+        "category": "Subscriptions",
+        "amount": 19.00,
+        "paymentMethod": "Card",
+        "date": "2026-11-10",
+        "recurring": true
+    },
+    {
+        "_id": "673b30010000000000000005",
+        "id": 305,
+        "title": "Full Stack JavaScript & Node.js Reference Book",
+        "category": "Education",
+        "amount": 34.99,
+        "paymentMethod": "Card",
+        "date": "2026-11-14",
+        "recurring": false
+    },
+    {
+        "_id": "673b30010000000000000006",
+        "id": 306,
+        "title": "Campus Coffee & Study Snacks",
+        "category": "Food & Dining",
+        "amount": 14.25,
+        "paymentMethod": "Apple Pay",
+        "date": "2026-11-17",
+        "recurring": false
+    },
+    {
+        "_id": "673b30010000000000000007",
+        "id": 307,
+        "title": "IMAX Cinema Night with Friends",
+        "category": "Entertainment",
+        "amount": 22.50,
+        "paymentMethod": "Apple Pay",
+        "date": "2026-11-18",
+        "recurring": false
+    }
+]
